@@ -1,1 +1,1 @@
-
+At some point, [ossapi](https://github.com/tybug/ossapi) lived in the circleguard org. This repo exists only as an override github pages to redirect ossapi's old github pages to their curent location, as github [does not redirect github pages by default when you transfer a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository#whats-transferred-with-a-repository).
